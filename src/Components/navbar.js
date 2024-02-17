@@ -52,12 +52,12 @@ function navbar() {
                         <p className='' >Projects</p>
                       
                     </NavLink>
-                    <NavLink>
+                    <NavLink to='/' >
                        <img className='w-10 border border-gray-400 rounded-full ' src='logo.png' alt='logo' />
                        <p> Home </p>
                     </NavLink>
 
-                    <NavLink>
+                    <NavLink to='/contact'>
                         <svg className="w-6 h-6 text-gray-900 mt-3.5 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                             <path fill-rule="evenodd" d="M5 4c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4Zm12 12V5H7v11h10Zm-5 1a1 1 0 1 0 0 2 1 1 0 1 0 0-2Z" clip-rule="evenodd" />
                         </svg>
