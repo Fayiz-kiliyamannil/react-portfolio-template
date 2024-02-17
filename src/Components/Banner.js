@@ -4,11 +4,9 @@ import { Link } from 'react-router-dom';
 function banner() {
     return (
         <>
-            <div className='h-[650px] w-[100%]  bg-gradient-to-br from-blue-500 to-red-200 mb-[500px]'>
-
-
-                <div className=' sm:relative  sm:top-[250px] flex  justify-center '>
-                    <div className="flex justify-center p-6 shadow-md sm:rounded-xl sm:px-16 dark:bg-white max-lg:w-[75vw] dark:text-gray-100">
+            <div className='h-[650px] w-[100%]  bg-gradient-to-br from-blue-500 to-red-200'>
+                <div className='flex  justify-center '>
+                    <div className="flex justify-center p-6 mt-20 lg:mt-[300px]  shadow-md sm:rounded-xl sm:px-16 dark:bg-white max-lg:w-[75vw] dark:text-gray-100">
                         <div className='  grid grid-cols-1 lg:grid-cols-2 space-x-6 ' >
                             <div >
                                 <img src="312B22F6-A01F-4D0B-B434-900E1D4A3F64.jpeg" alt="profile" className=" w-96 max-lg:mx-auto rounded-lg dark:bg-gray-500 " />
