@@ -1,14 +1,16 @@
 import React from 'react';
 import Banner from '../Components/Banner';
 import Progress from '../Components/Progress';
-import Timeline_Education from '../Components/Timeline_Education';
+import TimelineEducation from '../Components/Timeline_Education';
+import Project from '../Components/Project';
 
 function Home() {
   return (
  <>
  <Banner/>
  <Progress/>
- <Timeline_Education/>
+ <TimelineEducation/>
+ <Project/>
  </>
   )
 }  

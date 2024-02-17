@@ -1,11 +1,12 @@
-import logo from './logo.svg';
 import Navbar from './Components/navbar';
-import MainRouter from './Routers/MainRouter'
+import MainRouter from './Routers/MainRouter';
+import Footer from './Components/Footer';
 function App() {
   return (
    <>
     <Navbar/>
     <MainRouter/>
+    <Footer/>
 
    </>
   );
