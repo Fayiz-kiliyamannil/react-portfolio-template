@@ -13,26 +13,24 @@ function Progress() {
                         experiences and staying current with industry trends for innovative web development.
                     </p>
 
-                    <div className='flex  pt-10 pb-10 ' >
-
-                        <div className='  border-2 pt-4  rounded-xl mx-4 border-teal-700 h-28 w-52 ' >
+                    <div className='flex pt-10 pb-10 ' >
+                        <div className=' border-2 pt-4  mr-3 rounded-xl  border-teal-700 h-32 w-52 ' >
                            <div className=' flex justify-center  ' >
-                           <h1 className=' text-lg font-bold bg-clip-text text-transparent bg-gradient-to-br from-teal-500 to-gray-800  italic ' >Back-end Developer </h1>
+                           <h1 className=' text-lg font-bold bg-clip-text text-transparent bg-gradient-to-br from-teal-500 to-gray-800  text-center italic ' >Back-end Developer </h1>
                            </div>
-
-                            <div  className=' flex justify-center pt-2  ' >
-                            <img className='w-15 h-10 px-4' src='nodejs.png'  alt='node'/>
-                            <img className='w-15 h-10 px-4 ' src='mongodb.png'  alt='node'/>
+                            <div  className=' flex justify-between pt-2  px-2 sm:px-8  ' >
+                            <img className='w-15 h-10' src='nodejs.png'  alt='node'/>
+                            <img className='w-15 h-10 ' src='mongodb.png' alt='node'/>
                             </div>
                         </div>
-                        <div className='  border-2 pt-4  rounded-xl mx-4 border-teal-700 h-28 w-52 ' >
+                        <div className='  border-2 pt-4  rounded-xl ml-3 border-teal-700 h-32 w-52 ' >
                            <div className=' flex justify-center  ' >
-                           <h1 className=' text-lg font-bold  italic bg-clip-text text-transparent bg-gradient-to-br from-gray-700 to-teal-500  ' >Front-end Developer </h1>
+                           <h1 className=' text-lg font-bold  italic bg-clip-text text-transparent bg-gradient-to-br from-gray-700 to-teal-500 text-center  ' >Front-end Developer </h1>
                            </div>
 
-                            <div  className=' flex justify-center pt-2  ' >
-                            <img className='w-15 h-10 px-6' src='react.png'  alt='node'/>
-                            <img className='w-15 h-10 px-6 ' src='javascript.png'  alt='node'/>
+                            <div  className=' flex justify-between sm:px-10  px-5 pt-2   ' >
+                            <img className='w-15 h-10' src='react.png'  alt='node'/>
+                            <img className='w-15 h-10' src='javascript.png'  alt='node'/>
                             </div>
                         </div>
                     </div>
