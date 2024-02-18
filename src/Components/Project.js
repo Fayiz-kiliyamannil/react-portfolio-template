@@ -21,18 +21,18 @@ function project() {
         <>
             <div className=" py-20 bg-gradient-to-b from-gray-200 to-blue-300 ">
                 <div className="px-5 lg:px-10">
-                    <p className="text-2xl text-center  leading-8 border-b  border-gray-700 pb-6 text-gray-600">
+                    <p className="text-2xl text-center  leading-8 border-b  border-gray-700 pb-6 font-medium text-gray-700">
                         MY LATEST FEATURED PROJECTS
                     </p>
                     <div className="flex justify-center mt-12  ">
                         <div className='grid grid-cols-1 md:grid-cols-2 ' >
                             {
                                 websites.map((obj) => (
-                                    <article className="transition-transform  m-4 p-3 hover:scale-105 max-w-[400px] bg-gray-100 rounded-lg  ">
+                                    <article className="transition-transform  m-4 p-3 transform  hover:translate-y-2 max-w-[400px] bg-gradient-to-bl shadowrounded-2xl  ">
 
                                         <div className="rounded-xl mb-3 ">
                                             <NavLink to={obj.link} target='_blank'  >
-                                                <img className="rounded-lg " src={obj.image} alt="img" />
+                                                <img className="rounded-lg w-[4000px] h-[300px] mx-auto  " src={obj.image} alt="img" />
                                             </NavLink>
                                         </div>
                                         <div className="group  mt-4 ">

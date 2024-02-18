@@ -12,10 +12,34 @@ function Progress() {
                         end solutions. Proficient in MongoDB, Express.js ,React.js and Node.js. Adept at crafting seamless user
                         experiences and staying current with industry trends for innovative web development.
                     </p>
+
+                    <div className='flex  pt-10 pb-10 ' >
+
+                        <div className='  border-2 pt-4  rounded-xl mx-4 border-teal-700 h-28 w-52 ' >
+                           <div className=' flex justify-center  ' >
+                           <h1 className=' text-lg font-bold bg-clip-text text-transparent bg-gradient-to-br from-teal-500 to-gray-800  italic ' >Back-end Developer </h1>
+                           </div>
+
+                            <div  className=' flex justify-center pt-2  ' >
+                            <img className='w-15 h-10 px-4' src='nodejs.png'  alt='node'/>
+                            <img className='w-15 h-10 px-4 ' src='mongodb.png'  alt='node'/>
+                            </div>
+                        </div>
+                        <div className='  border-2 pt-4  rounded-xl mx-4 border-teal-700 h-28 w-52 ' >
+                           <div className=' flex justify-center  ' >
+                           <h1 className=' text-lg font-bold  italic bg-clip-text text-transparent bg-gradient-to-br from-gray-700 to-teal-500  ' >Front-end Developer </h1>
+                           </div>
+
+                            <div  className=' flex justify-center pt-2  ' >
+                            <img className='w-15 h-10 px-6' src='react.png'  alt='node'/>
+                            <img className='w-15 h-10 px-6 ' src='javascript.png'  alt='node'/>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <div className='space-y-3 px-5 max-lg:mt-5' >
-                <h1 className='font-bold uppercase text-3xl' > Skills </h1>
+                    <h1 className='font-bold uppercase text-3xl' > Skills </h1>
                     <div class="mb-1 text-base font-bold uppercase ">React JS 85%</div>
                     <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                         <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[85%]" ></div>

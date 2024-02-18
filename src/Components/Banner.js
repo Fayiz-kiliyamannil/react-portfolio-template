@@ -18,8 +18,7 @@ function banner() {
 
                                 <div className='text-md mt-3 lg:w-[400px] ' >
                                     <p>
-                                        Highly skilled MERN stack developer with expertise in dynamic front-end interfaces and robust back-
-                                        end solutions. Proficient in MongoDB, Express.js ,React.js and Node.js. Adept at crafting seamless user
+                                        I'am a Mern stack Developer. Proficient in MongoDB, Express.js ,React.js and Node.js. Adept at crafting seamless user
                                         experiences and staying current with industry trends for innovative web development.
                                     </p>
                                 </div>

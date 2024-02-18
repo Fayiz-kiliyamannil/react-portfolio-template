@@ -4,7 +4,7 @@ function Timeline_Education() {
     return (
         <>
             <div className="bg-gradient-to-b from-blue-300 to-red-200 px-6 pt-5 pb-[50px] w-full h-full z-0 ">
-                <h1 className=' text-center border-b border-gray-600 text-2xl uppercase px-10 text-2xl  pb-6  text-gray-600 '> My Education </h1>
+                <h1 className=' text-center border-b border-gray-600 text-2xl uppercase px-10 text-2xl  pb-6  font-medium text-gray-700 '> My Education </h1>
                 <ol class="relative border-s border-gray-200  mt-10 dark:border-gray-700">
                 <li class="ms-4 mb-16 ">
                         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
