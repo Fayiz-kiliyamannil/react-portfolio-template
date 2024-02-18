@@ -28,7 +28,7 @@ function project() {
                         <div className='grid grid-cols-1 md:grid-cols-2 ' >
                             {
                                 websites.map((obj,index) => (
-                                    <article key={index} className="transition-transform  m-4 p-3 transform  hover:translate-y-2 max-w-[400px] bg-gradient-to-bl shadowrounded-2xl  ">
+                                    <article key={index} className="transition-transform  m-4 p-3 transform  hover:translate-y-2 max-w-[400px] bg-gradient-to-bl shadow rounded-2xl  ">
 
                                         <div className="rounded-xl mb-3 ">
                                             <NavLink to={obj.link} target='_blank'  >
@@ -51,7 +51,7 @@ function project() {
                         </div>
                     </div>
 
-                    <div className='items-center  text-center mt-10 ' >
+                    <div className='items-center  text-center mt-5 ' >
 
                         <Link to='project' >
                             <button type="button" className="text-white bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 font-medium rounded-xl text-sm px-6 py-1 text-center me-2 mb-2">More...</button>

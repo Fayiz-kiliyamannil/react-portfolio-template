@@ -3,7 +3,7 @@ import React from 'react'
 function Timeline_Education() {
     return (
         <>
-            <div className="bg-gradient-to-b from-blue-300 to-red-200 px-6 pt-5 pb-[50px] w-full h-full z-0 ">
+            <div className="bg-gradient-to-b from-blue-300 to-red-200 px-6  pb-[50px] w-full h-full z-0 ">
                 <h1 className=' text-center border-b border-gray-600 text-2xl uppercase px-10 text-2xl  pb-6  font-medium text-gray-700 '> My Education </h1>
                 <ol className="relative border-s border-gray-200  mt-10 dark:border-gray-700">
                 <li className="ms-4 mb-16 ">
