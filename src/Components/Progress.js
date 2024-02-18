@@ -38,29 +38,29 @@ function Progress() {
 
                 <div className='space-y-3 px-5 max-lg:mt-5' >
                     <h1 className='font-bold uppercase text-3xl' > Skills </h1>
-                    <div class="mb-1 text-base font-bold uppercase ">React JS 85%</div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[85%]" ></div>
+                    <div className="mb-1 text-base font-bold uppercase ">React JS 85%</div>
+                    <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                        <div className="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[85%]" ></div>
                     </div>
 
-                    <div class="mb-1 text-base font-bold uppercase ">Node JS 90%</div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[90%]" ></div>
+                    <div className="mb-1 text-base font-bold uppercase ">Node JS 90%</div>
+                    <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                        <div className="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[90%]" ></div>
                     </div>
 
-                    <div class="mb-1 text-base font-bold uppercase ">Mongo DB 90%</div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[90%]" ></div>
+                    <div className="mb-1 text-base font-bold uppercase ">Mongo DB 90%</div>
+                    <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                        <div className="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[90%]" ></div>
                     </div>
 
-                    <div class="mb-1 text-base font-bold uppercase ">tailwind css 80%</div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[75%]" ></div>
+                    <div className="mb-1 text-base font-bold uppercase ">tailwind css 80%</div>
+                    <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                        <div className="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[75%]" ></div>
                     </div>
 
-                    <div class="mb-1 text-base font-bold uppercase ">javascript 95%</div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div class="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[95%]" ></div>
+                    <div className="mb-1 text-base font-bold uppercase ">javascript 95%</div>
+                    <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                        <div className="h-2.5 rounded-full bg-gradient-to-br from-purple-500 to-blue-300  w-[95%]" ></div>
                     </div>
                 </div>
             </div>

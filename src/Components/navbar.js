@@ -42,7 +42,7 @@ function navbar() {
                 </div>
             </div>
 
-            <div className='bg-gray-200 sm:hidden  w-[100%] h-[80px] bottom-0 fixed flex items-center z-10 ' >
+            <div className='bg-gray-200 sm:hidden  w-[100%] h-[60px] bottom-0 fixed flex items-center z-10 ' >
                 <div className='flex list-none  justify-center  w-[100%]  px-[12vw]  ' >
 
                     {/* project----------------------------link */}
@@ -60,7 +60,7 @@ function navbar() {
                     {/* contact-----------------------------Link */}
                     {/* <NavLink to='/contact'>
                         <svg className="w-6 h-6 text-gray-900 mt-3.5 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-                            <path fill-rule="evenodd" d="M5 4c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4Zm12 12V5H7v11h10Zm-5 1a1 1 0 1 0 0 2 1 1 0 1 0 0-2Z" clip-rule="evenodd" />
+                            <path fillRule="evenodd" d="M5 4c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4Zm12 12V5H7v11h10Zm-5 1a1 1 0 1 0 0 2 1 1 0 1 0 0-2Z" clipRule="evenodd" />
                         </svg>
                         <p className='pt-1 text-sm' >Contact</p>
 
