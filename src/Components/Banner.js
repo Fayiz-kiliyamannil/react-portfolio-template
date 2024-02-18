@@ -12,9 +12,9 @@ function banner() {
                                 <img src="312B22F6-A01F-4D0B-B434-900E1D4A3F64.jpeg" alt="profile" className=" w-96 max-lg:mx-auto rounded-lg dark:bg-gray-500 " />
                             </div>
                             <div className='text-gray-900 max-lg:mt-9 '>
-                                <h6 className='text-md  ' >Hello Everybody, I am</h6>
-                                <h1 className='font-bold text-5xl  '>Fayiz Km</h1>
-                                <h4 className='font-bold mt-4 ' >MERN Stack Developer</h4>
+                                <h6 className='text-md' >Hello Everybody, I am</h6>
+                                <h1 className='font-bold text-5xl'>Fayiz Km</h1>
+                                <h4 className='font-bold mt-4' >MERN Stack Developer</h4>
 
                                 <div className='text-md mt-3 lg:w-[400px] ' >
                                     <p>
@@ -26,19 +26,19 @@ function banner() {
                                 <div className='mt-4 '>
 
                                     <div className='flex space-x-3'>
-                                        <svg class="w-7 h-7 text-blue-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                        <svg class="w-7 h-7 text-purple-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m18.4 14.8-1.2-1.3a1.7 1.7 0 0 0-2.4 0l-.7.7a1.7 1.7 0 0 1-2.4 0l-1.9-1.9a1.7 1.7 0 0 1 0-2.4l.7-.6a1.7 1.7 0 0 0 0-2.5L9.2 5.6a1.6 1.6 0 0 0-2.4 0c-3.2 3.2-1.7 6.9 1.5 10 3.2 3.3 7 4.8 10.1 1.6a1.6 1.6 0 0 0 0-2.4Z" />
                                         </svg>
                                         <h6 className='text-gray-500 ' > +91 9645039900 </h6>
                                     </div>
                                     <div className='flex mt-2 ml-1 space-x-3'>
-                                        <svg className='w-5 text-blue-500  ' data-name="1-Email" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                            <path stroke="currentColor" d="M29 4H3a3 3 0 0 0-3 3v18a3 3 0 0 0 3 3h26a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-.72 2L16 14.77 3.72 6zM30 25a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.23l13.42 9.58a1 1 0 0 0 1.16 0L30 7.23z" />
+                                        <svg className='w-5 h-5 text-purple-700  ' aria-hidden="true" data-name="1-Email" xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 32 32">
+                                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29 4H3a3 3 0 0 0-3 3v18a3 3 0 0 0 3 3h26a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-.72 2L16 14.77 3.72 6zM30 25a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.23l13.42 9.58a1 1 0 0 0 1.16 0L30 7.23z" />
                                         </svg>
                                         <h6 className='text-gray-500 ' > fayiz.kiliyamannil@gmail.com </h6>
                                     </div>
                                     <div className='flex mt-3 space-x-3' >
-                                        <svg class="w-6 h-6 text-blue-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-purple-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
                                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.8 14h0a7 7 0 1 0-11.5 0h0l.1.3.3.3L12 21l5.1-6.2.6-.7.1-.2Z" />
                                         </svg>
