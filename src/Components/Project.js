@@ -1,5 +1,5 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 function project() {
 
@@ -19,7 +19,7 @@ function project() {
 
     return (
         <>
-            <div className=" py-20 ">
+            <div className=" py-20 bg-gradient-to-b from-gray-200 to-blue-300 ">
                 <div className="px-5 lg:px-10">
                     <p className="text-2xl text-center  leading-8 border-b  border-gray-700 pb-6 text-gray-600">
                         MY LATEST FEATURED PROJECTS
@@ -51,8 +51,13 @@ function project() {
                         </div>
                     </div>
 
+                    <div className='items-center  text-center mt-10 ' >
 
+                        <Link to='project' >
+                            <button type="button" class="text-white bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 font-medium rounded-xl text-sm px-6 py-1 text-center me-2 mb-2">More...</button>
 
+                        </Link>
+                    </div>
 
                 </div>
             </div>

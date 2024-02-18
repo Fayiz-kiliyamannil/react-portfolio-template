@@ -3,7 +3,7 @@ import React from 'react'
 function Progress() {
     return (
         <>
-            <div className='bg-gray-200 pb-[100px] max-lg:pt-[350px]  px-6 grid grid-cols-1 lg:grid-cols-2 pt-[200px]' >
+            <div className='bg-gray-200 pb-[50px] max-lg:pt-[350px]  px-6 grid grid-cols-1 lg:grid-cols-2 pt-[200px]' >
 
                 <div className='px-5 space-y-3 ' >
                     <h1 className='font-bold uppercase text-3xl' > About myself </h1>

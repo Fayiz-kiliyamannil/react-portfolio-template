@@ -9,8 +9,9 @@ function Home() {
  <>
  <Banner/>
  <Progress/>
- <TimelineEducation/>
  <Project/>
+ <TimelineEducation/>
+ 
  </>
   )
 }  

@@ -15,8 +15,7 @@ function navbar() {
 
     return (
         <>
-            <div className='display: flex h-[50px] fixed  top-0  w-[100%] list-none justify-between max-lg:justify-center  items-center   max-sm:hidden bg-gray-200 ' >
-
+            <div className='flex h-[50px] sticky top-0 w-[100%] list-none justify-between max-lg:justify-center items-center max-sm:hidden bg-gray-200 z-10 ' >
                 <div className='flex ml-16 max-lg:hidden '  >
                     <div className='w-12 mr-1' >
                         <img src='logo.png' alt='logo' />
@@ -43,7 +42,7 @@ function navbar() {
                 </div>
             </div>
 
-            <div className='bg-gray-200 sm:hidden  w-[100%] h-[80px] bottom-0 fixed flex items-center  ' >
+            <div className='bg-gray-200 sm:hidden  w-[100%] h-[80px] bottom-0 fixed flex items-center z-10 ' >
                 <div className='flex list-none  justify-center w-[100%] justify-between px-[12vw]  ' >
                     <NavLink to='project'>
                         <svg className="w-6 h-6 text-gray-900  mt-3.5 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
