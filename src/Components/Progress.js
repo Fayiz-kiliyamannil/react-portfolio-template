@@ -3,14 +3,15 @@ import React from 'react'
 function Progress() {
     return (
         <>
-            <div className='bg-gray-200 pb-[50px] max-lg:pt-[350px]  px-6 grid grid-cols-1 lg:grid-cols-2 pt-[200px]' >
+            <div className='bg-gray-200 pb-[50px] max-lg:pt-[500px]  px-6 grid grid-cols-1 lg:grid-cols-2 pt-[200px]' >
 
                 <div className='px-5 space-y-3 ' >
                     <h1 className='font-bold uppercase text-3xl' > About myself </h1>
                     <p>
-                        Highly skilled MERN stack developer with expertise in dynamic front-end interfaces and robust back-
-                        end solutions. Proficient in MongoDB, Express.js ,React.js and Node.js. Adept at crafting seamless user
-                        experiences and staying current with industry trends for innovative web development.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy 
+                    text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has 
+                    survived not only five centuries, but also the leap into electronic typesetting, remaining 
+                    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheet.
                     </p>
 
                     <div className='flex pt-10 pb-10 ' >

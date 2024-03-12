@@ -6,54 +6,53 @@ function banner() {
         <>
             <div className='h-[650px] w-[100%]  bg-gradient-to-br from-blue-500 to-red-200 z-0'>
                 <div className='flex  justify-center '>
-                    <div className="flex justify-center p-6 md:mt-20 lg:mt-[300px]  shadow-md sm:rounded-xl sm:px-16 dark:bg-white z-5  dark:text-gray-100">
+                    <div className="flex justify-center p-6 md:mt-20 lg:mt-[150px]  shadow-md sm:rounded-xl sm:px-16 dark:bg-white z-5  dark:text-gray-100">
                         <div className='  grid grid-cols-1 lg:grid-cols-2 space-x-6 ' >
                             <div >
-                                <img src="profile.jpeg" alt="profile" className=" w-96 max-lg:mx-auto rounded-lg dark:bg-gray-500 " />
+                                <img src="profile.jpg" alt="profile" className=" w-96  max-lg:mx-auto rounded-lg dark:bg-gray-500 " />
                             </div>
-                            <div className='text-gray-900 max-lg:mt-9 '>
+                            <div className='text-gray-900 max-lg:mt-9 mt-10 '>
                                 <h6 className='text-md' >Hello Everybody, I am</h6>
-                                <h1 className='font-bold text-5xl'>Fayiz Km</h1>
-                                <h4 className='font-bold mt-4' >MERN Stack Developer</h4>
+                                <h1 className='font-bold text-5xl'>Zayyan Malik</h1>
+                                <h4 className='font-bold mt-7' >Full Stack Developer</h4>
 
                                 <div className='text-md mt-3 lg:w-[400px] ' >
                                     <p>
-                                        I'am a Mern stack Developer. Proficient in MongoDB, Express.js ,React.js and Node.js. Adept at crafting seamless user
-                                        experiences and staying current with industry trends for innovative web development.
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                                     </p>
                                 </div>
-                                <div className='mt-4 '>
+                                <div className='mt-7 '>
 
                                     <div className='flex space-x-3'>
                                         <svg className="w-7 h-7 text-purple-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                             <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m18.4 14.8-1.2-1.3a1.7 1.7 0 0 0-2.4 0l-.7.7a1.7 1.7 0 0 1-2.4 0l-1.9-1.9a1.7 1.7 0 0 1 0-2.4l.7-.6a1.7 1.7 0 0 0 0-2.5L9.2 5.6a1.6 1.6 0 0 0-2.4 0c-3.2 3.2-1.7 6.9 1.5 10 3.2 3.3 7 4.8 10.1 1.6a1.6 1.6 0 0 0 0-2.4Z" />
                                         </svg>
-                                        <h6 className='text-gray-500 ' > +91 9645039900 </h6>
+                                        <h6 className='text-gray-500 ' > +971 67 433 9801 </h6>
                                     </div>
                                     <div className='flex mt-2 ml-1 space-x-3'>
                                         <svg className='w-5 h-5 text-purple-700  ' aria-hidden="true" data-name="1-Email" xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 32 32">
                                             <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M29 4H3a3 3 0 0 0-3 3v18a3 3 0 0 0 3 3h26a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-.72 2L16 14.77 3.72 6zM30 25a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.23l13.42 9.58a1 1 0 0 0 1.16 0L30 7.23z" />
                                         </svg>
-                                        <h6 className='text-gray-500 ' > fayiz.kiliyamannil@gmail.com </h6>
+                                        <h6 className='text-gray-500 ' > zayyan_malik372@gmail.com </h6>
                                     </div>
                                     <div className='flex mt-3 space-x-3' >
                                         <svg className="w-6 h-6 text-purple-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                             <path stroke="currentColor" strokeinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
                                             <path stroke="currentColor" strokeinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.8 14h0a7 7 0 1 0-11.5 0h0l.1.3.3.3L12 21l5.1-6.2.6-.7.1-.2Z" />
                                         </svg>
-                                        <h6 className='text-gray-500 ' > calicut,kerala,india</h6>
+                                        <h6 className='text-gray-500 ' > Nad Al Hamar,dubai</h6>
                                     </div>
                                 </div>
 
                                 <div className='flex mt-4 space-x-4' >
-                                    <Link to='https://github.com/Fayiz-kiliyamannil' target='_blank' >
+                                    <Link to='#' target='_blank' >
                                         <svg className="w-10 h-10 text-gray-200 rounded-lg bg-gradient-to-br from-purple-300 to-red-500 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                                             <path fillRule="evenodd" d="M12 2c-2.4 0-4.7.9-6.5 2.4a10.5 10.5 0 0 0-2 13.1A10 10 0 0 0 8.7 22c.5 0 .7-.2.7-.5v-2c-2.8.7-3.4-1.1-3.4-1.1-.1-.6-.5-1.2-1-1.5-1-.7 0-.7 0-.7a2 2 0 0 1 1.5 1.1 2.2 2.2 0 0 0 1.3 1 2 2 0 0 0 1.6-.1c0-.6.3-1 .7-1.4-2.2-.3-4.6-1.2-4.6-5 0-1.1.4-2 1-2.8a4 4 0 0 1 .2-2.7s.8-.3 2.7 1c1.6-.5 3.4-.5 5 0 2-1.3 2.8-1 2.8-1 .3.8.4 1.8 0 2.7a4 4 0 0 1 1 2.7c0 4-2.3 4.8-4.5 5a2.5 2.5 0 0 1 .7 2v2.8c0 .3.2.6.7.5a10 10 0 0 0 5.4-4.4 10.5 10.5 0 0 0-2.1-13.2A9.8 9.8 0 0 0 12 2Z" clipRule="evenodd" />
                                         </svg>
 
                                     </Link>
 
-                                    <Link to='https://www.linkedin.com/in/fayiz-kiliyamannil-680754204/' target='_blank' >
+                                    <Link to='#' target='_blank' >
                                         <svg className="w-10 h-10 text-gray-200 rounded-lg bg-gradient-to-br from-purple-300 to-red-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                                             <path fillRule="evenodd" d="M12.5 8.8v1.7a3.7 3.7 0 0 1 3.3-1.7c3.5 0 4.2 2.2 4.2 5v5.7h-3.2v-5c0-1.3-.2-2.8-2.1-2.8-1.9 0-2.2 1.3-2.2 2.6v5.2H9.3V8.8h3.2ZM7.2 6.1a1.6 1.6 0 0 1-2 1.6 1.6 1.6 0 0 1-1-2.2A1.6 1.6 0 0 1 6.6 5c.3.3.5.7.5 1.1Z" clipRule="evenodd" />
                                             <path d="M7.2 8.8H4v10.7h3.2V8.8Z" />
@@ -61,7 +60,7 @@ function banner() {
                                     </Link>
 
 
-                                    <Link to='https://stackoverflow.com/users/21393710/fayiz-kiliyamannil' target='_blank'>
+                                    <Link to='#' target='_blank'>
                                         <svg className="w-10 h-10 text-gray-200 rounded-lg bg-gradient-to-br from-purple-300 to-red-500 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                                             <path d="M17 20v-5h2v7H3v-7h2v5h12Z" />
                                             <path d="m6.8 14.5 8.8 1.8.3-1.7-8.7-1.8-.4 1.7ZM8 10.2l8 3.8.8-1.7-8-3.7-.8 1.6Zm3.4-5.5-1.2 1.4 6.9 5.7 1.1-1.4-6.8-5.7ZM15.6 17h-9v2h9v-2ZM12.9 3.1 19 9.5l1.4-1.4L14 2l-1 1.1Z" />

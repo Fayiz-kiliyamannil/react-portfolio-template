@@ -5,13 +5,15 @@ function project() {
 
     const websites = [
         {
-            name: 'Healthy-Life - Fitness Training Website', link: 'https://healthy-life-pi.vercel.app/',
-            description: 'Led the development of the "Healthy-Life" project, showcasing expertise in creating a feature-richfitness training website',
+            name: 'Lorem Ipsum is simply dummy text', 
+            link: '#',
+            description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting',
             image: "fitness.png"
         },
         {
-            name: 'ARANOZ (E-Commerce website)', link: '',
-            description: "Successfully developed a feature-rich e-commerce platform using Node.js and Handlebars (HBS) templates, resulting in a seamless shopping experience for a diverse user base. Showcased proficiencyin both front-end and back-end development.",
+            name: 'Lorem Ipsum is simply dummy text ', 
+            link: '#',
+            description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheet",
             image: 'ecommerce.png',
         },
     ]

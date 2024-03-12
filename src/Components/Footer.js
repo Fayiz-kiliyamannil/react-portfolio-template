@@ -12,7 +12,7 @@ function Footer() {
           <div className="mb-6 md:mb-0">
               <Link  className="flex items-center">
                   <img src="logo.png" className="h-12 " alt="FlowBite Logo" />
-                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-gray-950">Fayiz kiliyamannil</span>
+                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-gray-950">Zayyan Malik</span>
               </Link>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
@@ -23,7 +23,7 @@ function Footer() {
                           <Link target='_blank' to="#" className="hover:underline">Ecommerce</Link>
                       </li>
                       <li>
-                          <Link to="https://healthy-life-pi.vercel.app/" target='_blank' className="hover:underline">Healthy-Life</Link>
+                          <Link to="#" target='_blank' className="hover:underline">Healthy-Life</Link>
                       </li>
                   </ul>
               </div>
@@ -31,10 +31,10 @@ function Footer() {
                   <h2 className="mb-6 text-sm font-bold text-gray-950 uppercase ">Follow us</h2>
                   <ul className="text-gray-500 dark:text-gray-900 font-medium">
                       <li className="mb-4">
-                          <Link to="https://github.com/Fayiz-kiliyamannil/" target='_blank' className="hover:underline ">Github</Link>
+                          <Link to="#" target='_blank' className="hover:underline ">Github</Link>
                       </li>
                       <li>
-                          <Link to="https://www.linkedin.com/in/fayiz-kiliyamannil-680754204/" target='_blank' className="hover:underline">LinkedIn</Link>
+                          <Link to="#" target='_blank' className="hover:underline">LinkedIn</Link>
                       </li>
                   </ul>
               </div>

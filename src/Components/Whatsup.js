@@ -24,7 +24,7 @@ function Whatsup() {
    <>
    
    <div id='whatsup' className={`fixed  w-16 max-sm:bottom-20 transition-transform hover:scale-105 bottom-10 right-2  ${isVisible ? "" : 'opacity-10 invisible'}  `} >
-    <Link to='https://wa.me/9645039900' target='_blank' >
+    <Link to='https://wa.me/#' target='_blank' >
     <img className='hover:w-18' src='whatsup.png' alt='whatsup' />
     </Link>
    </div>
