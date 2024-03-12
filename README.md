@@ -10,24 +10,25 @@
     ♦️
     <a  href="https://github.com/Fayiz-kiliyamannil/react-portfolio-template/issues/new">Request Feature </a>
 </h3>
-# 👋 Introducing `Zayyan Malik Portfolio` 
- It is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements
 
-# 🚀 Demo
-Here is a quick demo of the app. We hope you enjoy it.
+##  Collaborative Demo Portfolio
+ Welcome to the Collaborative Demo Portfolio project! This repository serves as a playground for individuals to showcase their skills, experiment with new features, and contribute to an evolving portfolio template. Whether you're a beginner looking to practice your coding skills or an experienced developer wanting to try out new ideas, this project is for you!
 
-> [The Demo Link](https://tapasadhikary.com)
+> Check out the live version of this project [here](https://portfolio-blond-ten-32.vercel.app)
 
-Liked it? Please give a ⭐️ to <b> Zayyan Malik PortFolio </b>.
+## Using Your Own Portfolio
+Feel free to customize this demo portfolio to create your own personalized portfolio website. Update the content, add your projects, and tailor the design to reflect your style and skills. Don't forget to replace this README with information about yourself and your projects!
 
-## Bulid With
+
+## Build With
  ### This project was built using these technologies.
 
 ➢ React.js <br>
 ➢ Tailwind CSS <br>
 ➢ vercel <br>
 
-## Getting Started
+## Get Started
+Ready to get started? Fork the repository, make your changes, and let your creativity shine! If you have any questions or need assistance, don't hesitate to reach out to the project maintainers
 ### ⚙️ Installation and Setup Instructions.
 
 Clone the repository
